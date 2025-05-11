@@ -1,18 +1,18 @@
 {
   "users": {
-    "94717699000@s.whatsapp.net": {
+    "243991994311@s.whatsapp.net": {
       "afkTime": -1,
       "afkReason": "",
       "limit": "Infinity"
     }
   },
   "chats": {
-    "916909137213-1632759248@g.us": {
+    "243991994311-243991994311@g.us": {
       "mute": false,
       "antilink": false
     }
   },
-  "database": {},
+  "database": {243991994311},
   "game": {
     "tebaklagu": [],
     "family100": [],
@@ -26,7 +26,7 @@
     "tebakan": []
   },
   "settings": {
-    "12496030270@s.whatsapp.net": {
+    "243991994311@s.whatsapp.net": {
       "status": 0,
       "autobio": false
     }
